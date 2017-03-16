@@ -1,0 +1,8 @@
+{
+  "api": "key-23e3e1f739bb6da221da23406b075122",
+  "domain": "lixk.com",
+  "from": "Adam Lixk<adams@lixk.com>",
+  "list": ["adamsaparudin@gmail.com", "evsetiawan89@gmail.com"],
+  "subject": "Test set title email sent",
+  "text": "Test description email sent"
+}
